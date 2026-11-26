@@ -1,0 +1,2 @@
+Version control tracks changes to code over time ,enables collaboration, allows reverting to earlier versions, 
+and keeps.a history of who changed what and why 
